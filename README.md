@@ -1,2 +1,3 @@
-# recipe-generator
-Recipe application with custom recipe uploads
+# forkify Project
+
+Recipe application with custom recipe uploads.
